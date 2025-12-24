@@ -1,3 +1,3 @@
 # Random Walk
 
-<![10 Agent](./image.png) 
+![10 Agent](./image.png) 
